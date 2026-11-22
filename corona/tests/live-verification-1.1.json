@@ -1,0 +1,18 @@
+{
+  "VerifiedAt": "2026-11-15T09:46:30.4743579+08:00",
+  "Game": "Red Alert 3 1.12 / Corona 3.259",
+  "Mode": "Local skirmish",
+  "Map": "Temple Prime",
+  "SAGE": "1.9.5",
+  "Extension": "1.1",
+  "FpsSetting": 120,
+  "ZoomFactor": 1.5,
+  "TraceEnabled": false,
+  "NativeDistance": 600.0,
+  "TargetDistance": 900.0,
+  "CurrentDistance": 900.0,
+  "Pending": 0,
+  "AppliedCount": 1,
+  "AppliedAtLogicFrame": 3,
+  "CameraUpdateCalls": 17802
+}

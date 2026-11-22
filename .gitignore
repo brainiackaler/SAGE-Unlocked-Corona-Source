@@ -1,0 +1,11 @@
+# Built binaries are published as GitHub Release assets, not committed.
+*.exe
+*.zip
+RA3HighFps.ini
+
+# Local builds and installation records
+*.dll
+/corona/build/
+/corona/install-info.json
+/.venv/
+__pycache__/
